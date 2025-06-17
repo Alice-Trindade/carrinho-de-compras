@@ -1,3 +1,4 @@
+
 let totalDeTudo = 0;
 limpar();
 
@@ -25,5 +26,4 @@ function limpar() {
    totalDeTudo = 0;
    document.getElementById("lista-produtos").innerHTML = "";
    document.getElementById("valor-total").innerHTML = "R$ 0";
-    
-}
+    }
